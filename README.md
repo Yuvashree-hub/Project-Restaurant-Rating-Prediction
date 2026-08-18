@@ -1,7 +1,7 @@
 # Project-Restaurant-Rating-Prediction
-# 🍽️ Restaurant Rating Prediction Using Machine Learning
+# Restaurant Rating Prediction Using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses Machine Learning to predict restaurant ratings based on restaurant characteristics.
 
@@ -11,7 +11,7 @@ The project also provides visual insights into restaurant ratings, votes, cost, 
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The main objective of this project is to:
 
@@ -23,7 +23,7 @@ The main objective of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -35,7 +35,7 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project uses the **Zomato Bangalore Restaurants Dataset**.
 
@@ -59,9 +59,8 @@ https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
-```text
 Dataset
    ↓
 Data Cleaning
